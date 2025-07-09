@@ -4,7 +4,7 @@
 
 ## With the book help, i go upgrade some of my old projects after this(this is a remember for me)
 
-# ------------------------------------------------------------------------
+# -------------------------------------------------------------------
 
 # Projetos do livro Black Hat Python por Justin Seitz e Tim Arnold
 
@@ -12,7 +12,7 @@
 
 ## Com a ajuda do livro, eu vou melhorar alguns dos meus projetos antigos depois de terminar aqui. (Isto é somente um lembrete para mim)
 
-# ------------------------------------------------------------------------
+# --------------------------------------------------------------------
 
 # (Os codigos estarão em Inglês para mim treinar), (The codes will be in English for training) Se eu tiver tempo irei repassar todos para português afim de facilidade se algum brasileiro for ver.
 
